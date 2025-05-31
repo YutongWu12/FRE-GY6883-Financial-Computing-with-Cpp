@@ -1,7 +1,6 @@
 # FRE-GY6883-Financial-Computing-with-cpp
-# Financial Computing with C++ (Spring 2025, NYU)
 
-This repository contains selected programming assignments and the final project from **Financial Computing**, taught by Prof. Song Tang at NYU Tandon School of Engineering (Spring 2025, Tuesday section).
+This repository contains selected programming assignments and the final project from **Financial Computing**.
 
 This course covers the application of **C++ programming** to financial engineering, with a focus on option pricing models and financial systems implementation on AWS.
 
