@@ -1,4 +1,4 @@
-# FRE-GY6883-Financial-Computing-with-cpp
+# FRE-GY6883-Financial-Computing-with-Cpp
 
 This repository contains selected programming assignments and the final project from **Financial Computing**.
 
